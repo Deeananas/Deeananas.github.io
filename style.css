@@ -126,9 +126,9 @@ header a:hover{
 /*projects page*/
 
 ul#Projects li{
-    list-style-type: circle;
-    padding: 0px;
-    margin: 0px;
+    list-style: none;
+    padding: 1px;
+    margin: 1px;
     font-style:bold;
     
 }
