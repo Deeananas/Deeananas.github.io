@@ -127,8 +127,8 @@ header a:hover{
 
 ul#Projects li{
     list-style:none;
-    padding: 5px;
-    margin-bottom: 2px;
+    padding: 0px;
+    margin: 0px;
     font-style:bold;
     
 }
