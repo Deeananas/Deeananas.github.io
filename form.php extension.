@@ -72,5 +72,5 @@ if (isset($_POST['Email'])) {
     Thanks for getting in touch. I'll get back to you as soon as possible.
 
 <?php
-}
+Thanks for getting in touch. I'll get back to you as soon as possible.}
 ?>
